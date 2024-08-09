@@ -25,9 +25,6 @@ https://github.com/sudoAlireza/GeminiBot/assets/87416117/beeb0fd2-73c6-4631-baea
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/sudoAlireza/GeminiBot.git
-   ```
 
 2. Navigate to the project directory:
 
@@ -76,17 +73,4 @@ python main.py
 - [ ] **Add Tests and Easy Deployment**
 
 
-## Documentation
 
-For detailed instructions on using Telegram bots, refer to the [Telegram Bots Documentation](https://core.telegram.org/bots).
-
-To begin with Gemini, refer to the [Gemini API: Quickstart with Python](https://ai.google.dev/tutorials/python_quickstart).
-
-
-## Security
-
-Ensure the security of your API keys and sensitive information. Follow best practices for securing API keys and tokens.
-
-## Contributing
-
-Contributions to GeminiBot are encouraged. Feel free to submit issues and pull requests.
